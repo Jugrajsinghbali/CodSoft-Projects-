@@ -1,0 +1,80 @@
+hello|Hello! How can I help you?
+heyy|Hello! How can I help you?
+hi|Hello! How can I help you?
+how are you|I'm doing well, thank you!
+bye|Goodbye! Have a nice day
+default|I'm sorry, I don't understand that question
+Sure! Here are  definitions, each starting with "Define" and with ":" replaced by "|":
+Define Gravity| The force that attracts objects toward one another
+Define Atom| The basic unit of a chemical element
+Define DNA | A molecule carrying genetic instructions for living organisms
+Define Photosynthesis| The process by which plants convert sunlight into energy
+Define Volcano| An opening in Earth's crust that emits lava and gases
+Define Galaxy| A vast system of stars, gas, and dust held together by gravity
+Define Bacteria| Microscopic single-celled organisms with various roles in nature
+Define Ecosystem| A community of living organisms interacting with their environment
+Define Acid| A substance that donates protons and lowers pH levels
+Define Virus| A tiny infectious agent that requires a host cell to reproduce
+Define Tornado| A violent rotating column of air extending from a thunderstorm
+Define Evolution| The gradual change in genetic traits over successive generations
+Define Neutron| A subatomic particle found in the nucleus of an atom
+Define Rainforest| A dense forest with high annual rainfall and biodiversity
+Define Plate tectonics| The movement and interaction of Earth's lithospheric plates
+Define Solar system| A collection of celestial bodies orbiting around the Sun
+Define Tsunami| A series of ocean waves caused by large disturbances
+Define E=mc^| Einstein's famous equation relating energy and mass
+ Define Fossil| The preserved remains of ancient plants and animals
+ Define Photosphere| The visible surface of the Sun
+ Define Tsunami| A series of ocean waves caused by large disturbances
+ Define Black hole| A region in space with intense gravitational forces
+ Define Climate change| Long-term alterations in Earth's climate patterns
+ Define Quasar| A powerful and distant celestial object emitting massive energy
+ Define Glacier| A large mass of ice moving slowly over land
+ Define Mitosis| The process of cell division resulting in two identical daughter cells
+ Define Ozone layer| A region of the atmosphere protecting Earth from harmful UV radiation
+ Define Light-year| The distance light travels in one year, approximately  trillion miles
+ Define Supernova| The explosive death of a massive star, releasing vast energy
+ Define Pangea| The hypothetical supercontinent that existed millions of years ago
+ Define Fungi| A kingdom of eukaryotic organisms, including mushrooms and molds
+ Define Doppler effect| The change in frequency of a wave due to relative motion
+ Define Erosion| The process of wearing away Earth's surface by natural forces
+ Define Humidity| The amount of water vapor present in the air
+ Define Convection| The transfer of heat through fluid motion
+ Define Kinetic energy| The energy of an object due to its motion
+ Define Gravitational waves| Ripples in spacetime caused by massive celestial events
+ Define Proton| A subatomic particle with a positive charge found in atomic nuclei
+ Define Fission| The splitting of atomic nuclei, releasing energy
+ Define Erosion| The process of wearing away Earth's surface by natural forces
+ Define Cellular respiration| The process by which cells convert nutrients into energy
+ Define Refraction| The bending of light as it passes through different mediums
+ Define Pulsar| A highly magnetized, rotating neutron star emitting beams of radiation
+ Define Cnidaria| A phylum of animals including jellyfish and corals
+ Define Doppler effect| The change in frequency of a wave due to relative motion
+ Define Pollination| The transfer of pollen from one flower to another, enabling fertilization
+ Define Hubble Space Telescope| A powerful telescope orbiting Earth, capturing distant cosmic images
+ Define Conduction| The transfer of heat through direct contact
+ Define Equator| The imaginary line dividing Earth into Northern and Southern Hemispheres
+ Define Fault| A crack in Earth's crust due to tectonic movements
+ Define Prokaryote| A single-celled organism lacking a nucleus
+ Define Biodiversity| The variety of life forms and ecosystems on Earth
+ Define Anaerobic| A biological process that occurs without oxygen
+ Define Moon| Earth's natural satellite, orbiting around our planet
+ Define Igneous rock| A type of rock formed from the cooling of molten magma
+ Define Heredity| The passing on of genetic traits from parents to offspring
+ Define Sound wave| A longitudinal wave transmitting sound through a medium
+ Define Fossil fuel| An energy source formed from ancient organic remains
+ Define Electron| A subatomic particle with a negative charge found outside the atomic nucleus
+ Define Eclipses| The celestial event when one celestial body obscures another
+ Define Chromosome| A thread-like structure carrying genetic information in cells
+ Define Microorganisms| Tiny living organisms, often invisible to the naked eye
+ Define Doppler radar| A weather radar measuring precipitation velocity and intensity
+ Define Carbon footprint| The total greenhouse gas emissions produced by an individual or organization
+ Define Cholesterol| A lipid molecule essential for cell membranes and hormone production
+ Define Diffusion| The movement of particles from an area of high concentration to low concentration
+ Define Superconductor| A material with zero electrical resistance at low temperatures
+ Define Avalanche| The sudden mass movement of snow, ice, or rock down a slope
+ Define Delta| A landform at the mouth of a river formed by sediment deposition
+ Define Supernova| The explosive death of a massive star, releasing vast energy
+ Define Mutation| A change in the DNA sequence of an organism
+ Define Gene| A segment of DNA carrying hereditary information
+ Define Rain shadow| A dry region resulting from a mountain blocking rain-producing weather systems
